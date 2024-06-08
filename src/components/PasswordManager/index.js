@@ -158,8 +158,8 @@ class PasswordManager extends Component {
               <input
                 type="search"
                 className="input"
-                placeholder="Enter Website"
-                onChange={this.onSearchInput}
+                placeholder="Search"
+                onChange={this.onSearchInput}    
               />
             </div>
           </div>
